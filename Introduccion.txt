@@ -1,0 +1,16 @@
+Que es .NET
+  plataforma de desarrollo general
+Implementaciones .NET
+  .NET framework
+  .NET Core
+  Proyecto Mono (Xamarin)
+  UWP (universal windows platform)
+  .NET estandar
+Elementos de la plataforma
+  Ambiente de ejecucion
+    -CRL
+  Especificaciones de un lenguaje comun
+    -CTS, CLS
+  Librerias de clases
+Que es C#
+Lenguaja de programacion, orientado a objetos
